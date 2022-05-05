@@ -1,7 +1,7 @@
 terraform {
   required_providers {
-    krastekiprovider = {
-      source = "app.terraform.io/krk-organization/krastekiprovider"
+    myprovider = {
+      source = "app.terraform.io/krk-organization/krasteki"
       version = "0.1.0"
     }
   }
